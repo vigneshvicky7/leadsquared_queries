@@ -1,0 +1,16 @@
+Queries:
+
+1) select count(*) from Employee where department='Banking'
+   select count(*) from Employee where department='Insurance'
+   select count(*) from Employee where department='Services';
+
+
+2) select firstname,lastname from employee where manager=1 and department='Banking'
+   select firstname,lastname from employee where manager=1 and department='Insurance'
+   select firstname,lastname from employee where manager=1 and department='Services'
+
+
+3) select sum(Inceptive_Amount) from Inceptives where Employee_id in(select Employee_id from Employee where firstname='jphn') and month=(select substring(inceptive_date 4,3) from Inceptives);
+
+
+4) select substring(Inceptive_Date,4,3) from Inceptives where Inceptive_Amount in(select MAX(Inceptive_Amount) from Inceptives)
