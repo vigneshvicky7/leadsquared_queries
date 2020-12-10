@@ -1,0 +1,44 @@
+5) sand timers
+   First Start both the 7 minute sand timer and the 4 minute sand timer.
+
+   Once the 4 minute sand timer ends turn it upside down instantly.
+
+   Time Elapsed: 4 minutes. At this moment, 3 minutes of sand is left in the 7 minute sand timer.
+
+   Once the 7 minute sand timer ends turn it upside down instantly.
+
+   Time Elapsed: 7 minutes. At this moment, 1 minutes of sand is left in the 4 minute sand timer.
+
+   After the 4 minute sand timer ends, only 1 minute is elapsed in 7 minute sand timer, therefore for another minute turn the 7 minute sand timer upside down.
+
+   Time Elapsed: 8 minutes.
+
+   When the 7 minute sand timer ends, total time elapsed is 9 minutes.
+
+   So effectively 8 + 1 = 9.
+
+
+6) John and mary married coupled. they have 2 kids. one of them is girl. what is the probability that the other kid is also a girl?
+
+   there are 4 different scenarios, (boy,boy), (boy,girl), (girl,boy), (girl,girl)
+   
+   here, they clearly given that first kid is girl, hence, 4 scenarios reduced to 2. these are (girl,boy),(girl,girl)
+   
+   therefore, possibllity of other kid is also a girl is 1/2.
+
+
+7) In an attempt to sell radio advertising time, this ad claims that radio advertising will make businesses more profitable. 
+
+The evidence cited is a ten percent increase in business that the Cumquat Cafe has experienced in the year during which it advertised on the local radio station.
+
+This argument is unconvincing because two questionable assumptions must be made for the stated evidence to support the author's conclusion.
+
+The first assumption is that radio advertising alone has caused the increase in business at the Cumquat Cafe.
+
+ This assumption is questionable because it overlooks a number of other factors that might have contributed to the Cumquat's success. 
+
+For example, the Cumquat might have changed owners or chefs. It might have launched a coupon ad campaign in the local print media. Or it might have changed or updated the menu.
+
+In conclusion, it would be imprudent for a business to invest in radio advertising solely on the basis of the evidence presented. To strengthen the conclusion, it must be established that radio advertising was the principal cause of increased business at the Cumquat.
+
+Once this is shown, it must be determined that the business in question is sufficiently similar to the john cafe and so can expect similar returns from investment in radio ad time.
